@@ -27,8 +27,6 @@ public class MyWeatherWebView extends WebView {
     @Override
     protected void onAttachedToWindow() {
         super.onAttachedToWindow();
-//        setInitialScale(275);
-//        setInitialScale(100);
     }
 
     @Override
